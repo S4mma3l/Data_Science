@@ -100,3 +100,14 @@ El operador not tiene una tabla de verdad más simple, ya que simplemente invier
 operando	not operando
 True	      False
 False	      True
+
+### Lo que Aprendimos
+
+
+Lo que aprendimos en esta aula:
+
+    Construir estructuras condicionales con if, else y elif.
+    Diferenciar las estructuras condicionales.
+    Seleccionar la estructura condicional que mejor se adapte al problema.
+    Utilizar diferentes operadores para crear expresiones condicionales.
+
