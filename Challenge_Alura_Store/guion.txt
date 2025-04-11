@@ -1,0 +1,75 @@
+Título del Video: ¿Qué Tienda Vender? Análisis de Datos para Decisiones de Negocio
+
+Duración Estimada: 10-12 minutos
+
+Introducción (0:00 - 1:00)
+
+    (0:00 - 0:15) Intro Musical y Visual:
+        Música animada y moderna.
+        Visuales dinámicos con el logo de Alura Store y gráficos de barras en movimiento.
+    (0:15 - 0:30) Presentación:
+        "¡Hola a todos y bienvenidos al canal! Hoy vamos a sumergirnos en un proyecto de análisis de datos súper interesante. Vamos a ayudar al Sr. João a tomar una decisión crucial: ¿qué tienda de su cadena Alura Store debería vender?"
+    (0:30 - 1:00) Contexto:
+        "Imagina que eres un consultor de negocios. El Sr. João tiene cuatro tiendas, pero necesita capital para un nuevo emprendimiento. Para decidir cuál vender, vamos a analizar los datos de ventas, rendimiento y reseñas de clientes. ¡Vamos a usar Python y algunas librerías poderosas!"
+
+Configuración del Entorno (1:00 - 2:00)
+
+    (1:00 - 1:30) Librerías y Herramientas:
+        "Para este proyecto, vamos a usar pandas para manipular los datos y matplotlib para visualizarlos. Si no las tienes instaladas, no te preocupes, ¡es súper fácil!"
+            (Visual: Capturas de pantalla de la instalación de las librerías con pip install pandas matplotlib)
+        "Solo necesitas Python y pip. Abre tu terminal y ejecuta estos comandos."
+    (1:30 - 2:00) Carga de Datos:
+        "El primer paso es cargar los datos de cada tienda. Tenemos archivos CSV con información detallada sobre ventas, productos, clientes y más."
+            (Visual: Fragmento de código mostrando la carga de datos con pd.read_csv())
+        "Usamos pandas para leer estos archivos y convertirlos en algo llamado 'DataFrame'. Piensa en ello como una tabla gigante con la que podemos trabajar."
+
+Análisis de Ingresos (2:00 - 3:30)
+
+    (2:00 - 2:30) Cálculo de Ingresos Totales:
+        "Lo primero que queremos saber es cuánto dinero genera cada tienda. Sumamos los precios de todos los productos vendidos en cada una."
+            (Visual: Fragmento de código mostrando el cálculo de la suma de la columna 'Precio')
+        "Esto nos da el ingreso total de cada tienda. ¿Cuál crees que va ganando?"
+    (2:30 - 3:30) Comparación de Ingresos:
+        "Para comparar, creamos una tabla y un gráfico de barras."
+            (Visual: Tabla de ingresos totales y un gráfico de barras dinámico)
+        "¡Mira! La Tienda 4 tiene los ingresos más bajos. Esto ya es una pista importante."
+
+Análisis de Reseñas de Clientes (3:30 - 5:00)
+
+    (3:30 - 4:00) Cálculo de Calificación Promedio:
+        "Pero el dinero no lo es todo. También queremos saber qué tan contentos están los clientes. Calculamos la calificación promedio de cada tienda."
+            (Visual: Fragmento de código mostrando el cálculo de la media de la columna 'Calificación')
+    (4:00 - 5:00) Comparación de Calificaciones:
+        "Otra tabla y otro gráfico de barras para comparar."
+            (Visual: Tabla de calificaciones promedio y un gráfico de barras)
+        "¡Ups! La Tienda 4 también tiene la calificación más baja. Parece que no es la favorita de los clientes."
+
+Análisis Adicional (5:00 - 7:00)
+
+    (5:00 - 5:30) Categorías y Productos Más Vendidos:
+        "Podríamos profundizar aún más. ¿Qué categorías y productos se venden mejor en cada tienda? Esto nos da una idea de qué funciona y qué no."
+            (Visual: Breve muestra de código para agrupar por categoría y producto)
+        "Esto es súper útil para entender el comportamiento del cliente."
+    (5:30 - 6:00) Costo de Envío:
+        "También podríamos analizar los costos de envío para ver si hay alguna tienda que esté gastando demasiado en logística."
+            (Visual: Fragmento de código para calcular el costo de envío promedio)
+    (6:00 - 7:00) Visualizaciones Adicionales (Opcional):
+        "Si tuviéramos más tiempo, podríamos crear gráficos circulares para ver la distribución de ventas por categoría o mapas para ver dónde están los clientes más satisfechos."
+            (Visual: Muestra rápida de un gráfico circular y un mapa)
+
+Recomendación y Conclusión (7:00 - 10:00)
+
+    (7:00 - 8:00) Resumen de Hallazgos:
+        "Entonces, ¿qué hemos aprendido? La Tienda 4 tiene los ingresos más bajos y la peor calificación de los clientes. Esto sugiere que no está funcionando tan bien como las otras."
+            (Visual: Resumen en pantalla con los puntos clave del análisis)
+    (8:00 - 9:00) Recomendación:
+        "Mi recomendación para el Sr. João es vender la Tienda 4. Esto le permitirá liberar capital para su nuevo emprendimiento y enfocarse en las tiendas que sí están funcionando bien."
+    (9:00 - 9:30) Importancia del Análisis de Datos:
+        "Este proyecto demuestra el poder del análisis de datos para tomar decisiones de negocio inteligentes. No se trata solo de intuición, ¡sino de usar la información para guiar nuestras acciones!"
+    (9:30 - 10:00) Llamada a la Acción:
+        "Espero que hayas disfrutado este video. Si te gustó, dale like, suscríbete y comparte. ¡Y cuéntame en los comentarios qué tipo de análisis te gustaría ver en el futuro!"
+
+Outro (10:00 - 10:12)
+
+    Música optimista y visuales de agradecimiento.
+    Enlaces a redes sociales y otros videos.
